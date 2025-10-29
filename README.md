@@ -27,4 +27,5 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, ennabling strategic decision-making.
+Kindly Refer to Docs in this repository for the Data Achitecture, Data Model and the Data Lineage for this project.
 
